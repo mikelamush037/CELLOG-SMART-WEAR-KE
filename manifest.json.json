@@ -1,0 +1,16 @@
+{
+  "name": "CELLOG SMART WEAR",
+  "short_name": "CELLOG",
+  "description": "Smart clothing and wearable technology",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0a1931",
+  "theme_color": "#00a8ff",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>👕</text></svg>",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
